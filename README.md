@@ -1,4 +1,4 @@
-### Simple Django API
+### Django API Boilerplate
 This repo contains boilerplate code for a django API.
 You can find the specific versions of packages used for this boilerplate in `/requirements.txt`
 
